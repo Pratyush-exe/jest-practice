@@ -1,0 +1,23 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalize.js",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratyush-exe/jest-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pratyush-exe/jest-practice/issues"
+  },
+  "homepage": "https://github.com/Pratyush-exe/jest-practice#readme"
+}
